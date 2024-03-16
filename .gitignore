@@ -79,7 +79,6 @@ web_modules/
 .env.production.local
 .env.local
 
-<<<<<<< HEAD
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 .parcel-cache
@@ -129,17 +128,3 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-=======
-# temp directory
-.temp
-.tmp
-
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# Diagnostic reports (https://nodejs.org/api/report.html)
-report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
->>>>>>> 284f106 (First commit uploading the api)
